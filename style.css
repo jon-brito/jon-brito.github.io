@@ -14,21 +14,21 @@ html {
 h2 {
 	font-size: 3rem;
 	text-align: center;
-	color: rgb(231, 231, 231);
+	color: rgb(111, 13, 0);
 	font-family: 'Montserrat', sans-serif;
+	margin-top: 13rem!important;
 
 }
 
 .buffer {
-	height: 25rem;		
+	height: 18rem;		
 }
 
 .btn {
 	border-radius: 15px!important;
 	font-weight: 500!important;
-	margin-bottom: 10rem!important;
-	margin-top: 15rem!important; 
 	text-transform: uppercase;
+	margin-bottom: 3rem!important;
 
 }
 
